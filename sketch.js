@@ -28,7 +28,7 @@ var bgTexture = null;
 var bgPosX, bgPosY;
 
 function preload() {
-	bgTexture = loadImage("texture.jpg");
+	bgTexture = loadImage("bg.png");
 }
 
 function setup() {
